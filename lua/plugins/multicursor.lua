@@ -1,3 +1,8 @@
+-- 6.May.2025 Not working therefore not used
+if true then
+  return {}
+end
+
 return {
   {
     "smoka7/multicursors.nvim",
